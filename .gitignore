@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Generated Files
+vectorstore/
+results/
+data/generated_testset.json
+
+# OS Files
+.DS_Store

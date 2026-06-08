@@ -1,0 +1,11 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Deep Learning is a subset of Machine Learning that uses neural networks.
+
+Python was created by Guido van Rossum and released in 1991.
+
+RAG stands for Retrieval Augmented Generation.
+
+FAISS is a similarity search library developed by Meta.
